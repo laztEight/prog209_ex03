@@ -31,14 +31,18 @@ body{
     top: 0;
     left: 0;
 }
-
 #sprite{
     background-repeat: no-repeat;
     position: absolute;
     top: 210px;
     left: 200px;    
 }
-
+button{
+    border-radius: 25px;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
 footer{
     background-color: bisque;
     text-align: center;
